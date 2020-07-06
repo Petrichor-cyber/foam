@@ -1,6 +1,6 @@
 # Foam
 
-👋 Welcome to your new Foam Workspace!
+👋 Welcome to your new Foam Workspace! 哈哈哈
 
 ## Getting started
 
